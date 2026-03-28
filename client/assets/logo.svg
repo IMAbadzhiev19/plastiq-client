@@ -1,0 +1,18 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="orb" x1="238" y1="188" x2="805" y2="836" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3C82FF"/>
+      <stop offset="1" stop-color="#7A3CFF"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="287" y1="263" x2="722" y2="780" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DB6FF"/>
+      <stop offset="1" stop-color="#C1A5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1024" height="1024" rx="280" fill="#F4F6FB"/>
+  <circle cx="512" cy="512" r="314" fill="url(#orb)"/>
+  <circle cx="512" cy="512" r="250" fill="url(#glow)" opacity="0.16"/>
+  <path d="M420 312H563C659 312 729 377 729 471C729 565 657 627 560 627H490V756H420V312ZM490 563H553C612 563 657 525 657 471C657 417 614 379 555 379H490V563Z" fill="white"/>
+  <path d="M588 645C608 684 646 710 701 723C673 763 626 789 575 789C524 789 481 770 452 734C505 730 551 699 588 645Z" fill="white" opacity="0.94"/>
+  <circle cx="734" cy="325" r="45" fill="#D7F36E"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg width="1242" height="2436" viewBox="0 0 1242 2436" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="backdrop" x1="171" y1="194" x2="1096" y2="2268" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F7FAFF"/>
+      <stop offset="1" stop-color="#EEF2FB"/>
+    </linearGradient>
+    <linearGradient id="blobA" x1="159" y1="285" x2="499" y2="712" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CBE5FF"/>
+      <stop offset="1" stop-color="#CBE5FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="blobB" x1="820" y1="1642" x2="1127" y2="2125" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E3D6FF"/>
+      <stop offset="1" stop-color="#E3D6FF" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="orb" x1="398" y1="772" x2="853" y2="1296" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3C82FF"/>
+      <stop offset="1" stop-color="#7A3CFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1242" height="2436" fill="url(#backdrop)"/>
+  <circle cx="232" cy="336" r="246" fill="url(#blobA)"/>
+  <circle cx="1028" cy="1994" r="272" fill="url(#blobB)"/>
+  <circle cx="621" cy="1138" r="254" fill="url(#orb)"/>
+  <path d="M549 976H665C743 976 799 1031 799 1107C799 1185 741 1237 662 1237H606V1341H549V976ZM606 1184H657C706 1184 743 1152 743 1107C743 1062 707 1030 658 1030H606V1184Z" fill="white"/>
+  <path d="M684 1250C700 1282 731 1304 776 1315C753 1348 715 1369 674 1369C633 1369 598 1354 574 1325C617 1322 655 1297 684 1250Z" fill="white" opacity="0.96"/>
+  <circle cx="804" cy="988" r="36" fill="#D7F36E"/>
+  <text x="621" y="1544" text-anchor="middle" font-family="Avenir, Helvetica, Arial, sans-serif" font-size="116" font-weight="700" fill="#182032">Plastiq</text>
+  <text x="621" y="1630" text-anchor="middle" font-family="Avenir, Helvetica, Arial, sans-serif" font-size="38" font-weight="500" fill="#6A7588">Learn plastics with playful clarity</text>
+</svg>

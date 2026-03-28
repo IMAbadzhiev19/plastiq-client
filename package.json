@@ -1,0 +1,16 @@
+{
+  "name": "plastiq-platform",
+  "private": true,
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "client": "npm --workspace client start",
+    "ios": "npm --workspace client run ios",
+    "android": "npm --workspace client run android",
+    "web": "npm --workspace client run web",
+    "server": "npm --workspace server run dev",
+    "typecheck": "npm --workspace client run typecheck"
+  }
+}
