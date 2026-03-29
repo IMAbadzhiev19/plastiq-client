@@ -111,6 +111,58 @@ of water reduction achieved became 10.7%, and an average of 6.17%.[^4]
 
 [^4]: [Blog post about a student's study at Twente](https://www.utwente.nl/en/sustainability/sustainability-news/2023/7/1035344/innovative-nudging-intervention-pilot-reduces-toilet-water-waste).
 
+## Running the code
+
+### Prerequisites
+
+- Node.js (v20 or later)
+- npm, pnpm, yarn or bun
+- iOS Simulator (Xcode) **or** Android Studio **or** physical device with Expo Go
+
+### Installation
+
+```sh
+git clone https://github.com/IMAbadzhiev19/plastiq-client
+cd plastiq-client
+```
+
+### Installing Dependencies
+
+```sh
+npm install
+```
+
+### Dev server
+
+```sh
+npm start
+```
+
+### Running on devices
+
+#### iOS
+
+```sh
+npm run ios
+```
+
+#### Android
+
+```sh
+npm run android
+```
+
+#### Web
+
+```sh
+npm run web
+```
+
+#### Physical device
+
+It needs to have [Expo Go](https://expo.dev/go) installed, scan the QR code
+from the Expo App when starting the [Dev server](#dev-server).
+
 ## Demo
 
 > [!TODO]
