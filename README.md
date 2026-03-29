@@ -165,5 +165,4 @@ from the Expo App when starting the [Dev server](#dev-server).
 
 ## Demo
 
-> [!TODO]
-> Add a demo video.
+[Demo Video](https://github.com/user-attachments/assets/e0187a29-be17-411f-8218-08281358b2b3)
